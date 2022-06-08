@@ -27,5 +27,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" alt="macos" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="raspberry-pi" /></code>
 
-
-🥰 You can follow me on Bilibili: [xianfei](https://space.bilibili.com/9872607) and 微信公众号：Xianfei
+#### What's more
+- 🥰 You can follow me on Bilibili: [xianfei](https://space.bilibili.com/9872607) and 微信公众号：Xianfei
+- 📬 Email: xianfei@bupt.cn
