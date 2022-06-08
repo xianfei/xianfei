@@ -4,7 +4,7 @@
 
 - 🔭 I'm an undergraduate student of software engineering from China now. 就读于北京信息科技大学&北京邮电大学双培计划，现在大四。
 - 🏡 I'm living in Beijing and looking for a job in Beijing.
-- 🌱 I'm currently learning Computer Graphics & Machine Learning & Web Front-end.
+- 🌱 I'm currently learning Computer Graphics & Machine Learning & Web Technologies.
 - 😍 I like eating delicious foods 🍔, traveling 🏝, photography 📸, coding 🧑‍💻 and sleeping 🛌.
 - 😡 I hate working overtime.
 - 💬 I like chating. Be free to ask me about anything [here](https://github.com/xianfei/xianfei/issues).
