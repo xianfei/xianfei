@@ -32,5 +32,5 @@
 #### What's more
 - 🥰 You can follow me on [Bilibili: xianfei](https://space.bilibili.com/9872607) and 微信公众号：Xianfei
 - 📬 Email: xianfei@bupt.cn
-- 💻 Devices: Macbook Pro 16 2021 (16G+1TB,M1 Pro) / ROG zephyrus m16 2022 (40G+4T,i7-12700H,RTX3060) / Macbook Pro 13 2018 (16G+512G,i5-8259U) / RaspberryPi 4b (8G) / Xiaomi 13 Ultra (16G+512G)
+- 💻 Devices: Macbook Pro 16 2021 (M1 Pro) / ROG zephyrus m16 2022 (i7-12700H,RTX3060) / Macbook Pro 13 2018 (i5-8259U) / RaspberryPi 4b / Xiaomi 13 Ultra
 - 👀 See more on [my blog](https://blog.xianfei.win/) and [my photography portfolio](https://photography.xianfei.win/) (if you're interested in 📸)
