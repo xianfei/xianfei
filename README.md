@@ -4,6 +4,7 @@
 
 >  The only limit is your imagination.
 
+- 🏫 Research Assistant at [HKUST](https://hkust.edu.hk/), AI Researcher & Frontend Developer at Bauhinia AI.
 - 🌱 I'm currently learning Computer Graphics & Machine Learning & Web Technologies.
 - 😍 I like eating delicious foods 🍔, traveling 🏝, photography 📸, coding 🧑‍💻 and sleeping 🛌.
 - 😡 I hate working overtime.
@@ -16,7 +17,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/java/java.png" alt="java" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/arduino/arduino.png" alt="arduino" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/nodejs/nodejs.png" alt="nodejs" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/linux/linux.png" alt="linux" /></code>
@@ -29,6 +29,6 @@
 
 #### What's more
 - 🥰 You can follow me on [Bilibili: xianfei](https://space.bilibili.com/9872607) and 微信公众号：Xianfei
-- 📬 Email: xianfei@bupt.cn
+- 📬 Email: xianfei@bupt.cn; maxfwang@ust.hk; xianfei@bauhiniaai.com
 - 💻 Devices: Macbook Pro 16 2021 (M1 Pro) / ROG zephyrus m16 2022 (i7-12700H,RTX3060) / Macbook Pro 13 2018 (i5-8259U) / RaspberryPi 4b / Xiaomi 13 Ultra
 - 👀 See more on [my blog](https://blog.xianfei.win/) and [my photography portfolio](https://photography.xianfei.win/) (if you're interested in 📸)
