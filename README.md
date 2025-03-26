@@ -5,7 +5,7 @@
 >  The only limit is your imagination.
 
 - 🏫 Research Assistant at [HKUST](https://hkust.edu.hk/), AI Researcher & Frontend Developer at Bauhinia AI.
-- 🌱 I'm currently learning Computer Graphics & Machine Learning & Web Technologies.
+- 🌱 I'm currently learning Mathematics & LLM (Agent/Prompt Engineering/RAG) & Web Technologies.
 - 😍 I like eating delicious foods 🍔, traveling 🏝, photography 📸, coding 🧑‍💻 and sleeping 🛌.
 - 😡 I hate working overtime.
 - 💬 I like chating. Be free to ask me about anything [here](https://github.com/xianfei/xianfei/issues).
@@ -23,7 +23,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" alt="android" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/chrome/chrome.png" alt="chrome" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" alt="terminal" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="google" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" alt="macos" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="raspberry-pi" /></code>
 
