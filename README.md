@@ -4,8 +4,8 @@
 
 >  The only limit is your imagination.
 
-- 🏫 Research Assistant at [HKUST](https://hkust.edu.hk/), AI Researcher & Frontend Developer at Bauhinia AI.
-- 🌱 I'm currently learning Mathematics & LLM (Agent/Prompt Engineering/RAG) & Web Technologies.
+- 🏫 Research Assistant at [HKUST](https://hkust.edu.hk/)
+- 🌱 I'm currently focus on LLM (Agent/Prompt Engineering/RAG) & Web Technologies.
 - 😍 I like eating delicious foods 🍔, traveling 🏝, photography 📸, coding 🧑‍💻 and sleeping 🛌.
 - 😡 I hate working overtime.
 - 💬 I like chating. Be free to ask me about anything [here](https://github.com/xianfei/xianfei/issues).
