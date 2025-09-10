@@ -4,9 +4,9 @@
 
 >  The only limit is your imagination.
 
-- 🏫 Research Assistant at [HKUST](https://hkust.edu.hk/)
-- 🌱 I'm currently focus on LLM (Agent/Prompt Engineering/RAG) & Web Technologies.
-- 😍 I like eating delicious foods 🍔, traveling 🏝, photography 📸, coding 🧑‍💻 and sleeping 🛌.
+- 🏫 Mphil(Master of Philosophy) student in Computer Science and Engineering at [HKUST](https://hkust.edu.hk/)
+- 🌱 I'm currently focus on LLM (Agent/Prompt Engineering/RAG) & Muilt-Modal & Web Technologies.
+- 😍 I like eating delicious foods 🍔, traveling 🏝 and photography 📸.
 - 😡 I hate working overtime.
 - 💬 I like chating. Be free to ask me about anything [here](https://github.com/xianfei/xianfei/issues).
 
@@ -28,6 +28,6 @@
 
 #### What's more
 - 🥰 You can follow me on [Bilibili: xianfei](https://space.bilibili.com/9872607) and 微信公众号：Xianfei
-- 📬 Email: xianfei@bupt.cn; maxfwang@ust.hk; xianfei@bauhiniaai.com
+- 📬 Email: xianfei@bupt.cn;
 - 💻 Devices: Macbook Pro 16 2021 (M1 Pro) / ROG zephyrus m16 2022 (i7-12700H,RTX3060) / Macbook Pro 13 2018 (i5-8259U) / RaspberryPi 4b / Xiaomi 13 Ultra
 - 👀 See more on [my blog](https://blog.xianfei.win/) and [my photography portfolio](https://photography.xianfei.win/) (if you're interested in 📸)
